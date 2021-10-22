@@ -1,0 +1,49 @@
+.bg-primary-footer{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    padding: 124px 191px;
+
+}
+
+h1{
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+/* or 117% */
+
+
+color: #000000;
+}
+
+.custom-boton{
+    background: #458FF6;
+border-radius: 55px;
+border:none;
+width: 200px;
+}
+p{
+    font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 32px;
+}
+.button-t{
+    width: 41px;
+height: 41px;
+left: 144px;
+top: 58px;
+
+background: #458FF6;
+}
+.trafalgar{
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+color: #233348;
+mix-blend-mode: normal;
+}
